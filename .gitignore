@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment files and credentials
+.env
+**/.env
+*.env
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Build outputs
+dist/
+**/dist/
+build/
+**/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
